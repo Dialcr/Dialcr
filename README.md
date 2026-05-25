@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 Software Engineer from Cujae, Havana, Cuba 💚<br>💬 Experience in projects with Python, JavaScript/TypeScript, .NET<br>⚙️ Special interest in Backend architecture, focused on robust solutions<br>🤝 5 years of professional experience as junior developer at:<br>Avangenio<br>🎯 Always seeking to improve and share knowledge.
+🤓 Software Engineer from Cujae, Havana, Cuba 💚<br>🇪🇸 Currently living in Spain <br>💬 Experience in projects with Python, JavaScript/TypeScript, .NET<br>⚙️ Special interest in Backend architecture, focused on robust solutions<br>🤝 5 years of professional experience as junior developer at:<br>Avangenio<br>🎯 Always seeking to improve and share knowledge.
 
 
 ## 🌐 Socials:
